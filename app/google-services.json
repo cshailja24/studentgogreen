@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "198500923580",
+    "firebase_url": "https://studentgogreen-4ea71.firebaseio.com",
+    "project_id": "studentgogreen-4ea71",
+    "storage_bucket": "studentgogreen-4ea71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198500923580:android:37318293a3d2402d",
+        "android_client_info": {
+          "package_name": "com.example.shailja.studentgogreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198500923580-19oie6l25nelns88couartb1og66sbmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shailja.studentgogreen",
+            "certificate_hash": "9a8f460a7f6d4a20e07d5340876ccfea341f581d"
+          }
+        },
+        {
+          "client_id": "198500923580-s6tadv50pbpdnsv29t46p1ca2lblvtsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhr7KZ20yAVMoRAWNiEa4UbaIWp5SeVBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198500923580-s6tadv50pbpdnsv29t46p1ca2lblvtsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
